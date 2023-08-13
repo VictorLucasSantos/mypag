@@ -1,0 +1,2 @@
+# mypag
+Django Pessoal Blog
