@@ -24,7 +24,6 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-.idea
 MANIFEST
 
 # PyInstaller
@@ -123,9 +122,9 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
+mypag/env/
 venv/
-ENV/
+mypag/env/
 env.bak/
 venv.bak/
 
@@ -146,6 +145,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
 
 # pytype static type analyzer
 .pytype/
